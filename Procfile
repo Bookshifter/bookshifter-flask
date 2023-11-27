@@ -1,1 +1,1 @@
-web: python -m flask run --debug --port=8000
+web: python -m flask run --port=5000
