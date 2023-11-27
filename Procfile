@@ -1,1 +1,1 @@
-web: python -m flask run --port=5000
+web: gunicorn wsgi:application
